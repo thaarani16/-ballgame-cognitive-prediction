@@ -1,0 +1,10 @@
+## ✅ Suggested `requirements.txt`
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+xgboost
