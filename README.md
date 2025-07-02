@@ -38,3 +38,9 @@ Seven machine learning regression models were implemented to predict the time fo
 - R² Score
 
 ---
+
+## 🏆 Best Performing Model
+
+Based on experimental results, the **Decision Tree Regressor** demonstrated the most consistent performance in predicting cognitive task completion times, achieving an average accuracy of approximately **94.89%**, as detailed in the research draft.
+
+This highlights the Decision Tree model's effectiveness in capturing patterns within behavioral time data for cognitive performance estimation.
